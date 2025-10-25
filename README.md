@@ -1,6 +1,8 @@
 ##  Simple speedtester 
 
 
-# Установка
-'''bash 
+# Install
+
+```bash
 pip install speedtest-cli
+```
